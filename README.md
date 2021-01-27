@@ -1,6 +1,6 @@
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Kevin Piffero**
 
@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While creating this app I didn't run into any problems.
 
 ## License
 
